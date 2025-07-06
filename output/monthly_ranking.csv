@@ -1,0 +1,6 @@
+player_id,deposit_amount,withdrawal_amount,num_deposit,num_withdrawal,games_played,loyalty_points,rank
+P001,1200,500,2,1,24,19.302,1
+P002,1500,1500,2,1,24,27.302,2
+P003,2700,300,2,1,33,35.102000000000004,3
+P004,0,800,0,1,15,7.0,4
+P005,2500,1000,2,1,35,37.001999999999995,5

@@ -1,0 +1,6 @@
+player_id,deposit_amount,withdrawal_amount,num_deposit,num_withdrawal,games_played,loyalty_points,date,slot
+P001,1000,0,1,0,10,12.001,2023-10-02,S1
+P002,500,0,1,0,7,6.401000000000001,2023-10-02,S1
+P002,1000,0,1,0,12,12.401,2023-10-16,S2
+P005,1500,0,1,0,15,18.000999999999998,2023-10-18,S1
+P002,0,1500,0,1,5,8.5,2023-10-26,S2
